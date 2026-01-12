@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "@root/greenlock": "^4.0.5",
+    "greenlock-express": "^4.0.3",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "uuid": "^13.0.0",
+    "ws": "^8.19.0"
+  }
 }
